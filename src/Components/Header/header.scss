@@ -1,0 +1,24 @@
+.header {
+  background: linear-gradient(180deg, #0c0c1d, #02020c);
+  overflow: hidden;
+  position: relative;
+}
+
+.slidingTextContent {
+  position: absolute;
+  font-size: 50vh;
+  bottom: -120px;
+  white-space: nowrap;
+  color: #ffffff09;
+  width: 50%;
+  font-weight: bold;
+}
+
+.imgContainer {
+  position: relative;
+}
+
+.imgContainer img {
+  position: relative;
+  z-index: 0;
+}
