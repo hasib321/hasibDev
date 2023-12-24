@@ -1,7 +1,7 @@
 import Aos from "aos";
 import "aos/dist/aos.css";
 import "./about.scss";
-import cv from "../../../public/dummycv.pdf";
+import cv from "../../../public/RESUME.pdf";
 import { IoMdDownload } from "react-icons/io";
 import { useEffect } from "react";
 const About = () => {
