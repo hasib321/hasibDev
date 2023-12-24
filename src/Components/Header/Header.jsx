@@ -73,7 +73,7 @@ const Header = () => {
           data-aos-easing="ease-in-sine"
           data-aos-duration="600"
         >
-          <a href="https://www.linkedin.com/feed/" target="blank">
+          <a href="https://www.linkedin.com/in/md-hasibuzzaman/" target="blank">
             <FaLinkedin className="text-xl text-white bg-sky-500 "></FaLinkedin>
           </a>
           <a href="https://twitter.com/home?lang=en" target="blank">
