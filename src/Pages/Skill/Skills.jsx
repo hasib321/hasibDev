@@ -5,7 +5,6 @@ import { FaBootstrap } from "react-icons/fa6";
 import { IoLogoCss3, IoLogoFirebase } from "react-icons/io5";
 import { FaReact, FaNode } from "react-icons/fa";
 import { SiMongodb, SiExpress } from "react-icons/si";
-import cv from "./../../../public/dummycv.pdf";
 import Aos from "aos";
 import "aos/dist/aos.css";
 import { useEffect } from "react";
