@@ -5,7 +5,7 @@ import { motion } from "framer-motion";
 import { Cursor, useTypewriter } from "react-simple-typewriter";
 import { FaTwitter, FaGithub, FaLinkedin } from "react-icons/fa";
 import { IoMdMail, IoMdDownload } from "react-icons/io";
-import cv from "./../../../public/dummycv.pdf";
+import cv from "./../../../public/RESUME.pdf";
 import { useEffect } from "react";
 const Header = () => {
   const [typWriter] = useTypewriter({
